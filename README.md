@@ -132,7 +132,7 @@ Sandlight23Ext(BattleMixin, HudPolishMixin, JadeUIMixin,
 
 - **引擎**：Panda3D（Python 绑定 + C++ 渲染核心）
 - **图形**：程序化几何、BAM 模型、GLSL 着色、Bloom / 雾效后处理
-- **模型资产**：Blender 建模导出 GLB → 转 BAM；Tripo AI 生成角色 FBX
+- **模型资产**：Blender 建模导出 GLB → 转 BAM；Aholo AI 生成角色 FBX
 - **UI**：OnscreenText / DirectGUI + PNMImage 程序化贴图
 - **存档**：JSON（写入 `LOCALAPPDATA`）
 
