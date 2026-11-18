@@ -1,0 +1,5 @@
+# 逐玉记 · JADE HUNTER 运行依赖
+# Python 3.8-3.12 (64-bit), Windows 10/11 推荐
+# 安装: pip install -r requirements.txt
+
+Panda3D>=1.10.13,<1.11
